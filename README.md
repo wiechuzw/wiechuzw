@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wiechuzw
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning python
+- 👀 I'm an electrical engineer 
+     I’m interested in sports (currently windsurfing is my favorite)
+- 🌱 At present I'm learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
